@@ -9,7 +9,7 @@ print("First item: ", frutas[0])
 print("Middle item: ", frutas[2])
 print("Last item: ", frutas[4])
 
-mixed_data_types=['Alison', 18, 1.59, 'Single', 'Hermanos Galeana']
+mixed_data_types=['Angel', 18, 1.80, 'Single', 'Mariano Jimenez']
 print("Lista de tipos de datos distintos: ", mixed_data_types)
 
 it_companies=['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']

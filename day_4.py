@@ -26,10 +26,10 @@ print(company.replace("coding", "python"))
 frase="python for everyone"
 print(frase.replace("everyone", "all"))
 #13
-print(company.split())
-#14
+print(company.split(" , "))
+#14 
 companies= "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon"
-print(companies.split(", "))
+print(companies.split())
 #15
 print(company[0])
 #16

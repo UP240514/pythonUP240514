@@ -23,7 +23,7 @@ width= float(input('Dame el ancho del rectengulo:'))
 length = float(input('Dame el largo del rectangulo: '))
 
 print('El area del rectangulo es de: ', width*length)
-print('El perimetro del rectangulo es de:', 2(width+length))
+print('El perimetro del rectangulo es de:', 2*(width+length))
 
 #Area y perimetro del circulo 7
 
