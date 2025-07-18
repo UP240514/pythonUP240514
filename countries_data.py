@@ -1,4 +1,4 @@
-[
+paises=[
     {
         "name": "Afghanistan",
         "capital": "Kabul",

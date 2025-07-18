@@ -193,5 +193,3 @@ countries = [
   'Zambia',
   'Zimbabwe',
 ]; 
-country= countries.remove("land")
-print(country)
